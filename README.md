@@ -43,7 +43,7 @@ Add this two extensions to your VSCodium.
 
 ![Screenshot 2021-09-06 at 11 03 01](https://user-images.githubusercontent.com/17232450/132191629-ebce1191-c063-4a28-ac17-5559cca92a8b.png)
 
-### Edit the wiki with GitHub clod edditing tool: 
+### Edit the wiki with GitHub cloud edditing tool: 
 
 It is possible to eddit the wiki file manualy with with GitHub cloud edditing tool
 

@@ -6,7 +6,6 @@ to preview the wiki file please open the following link:
 
 https://github.com/TIDEUPF/COURAGE-xAPI/wiki
 
-https://github.com/TIDEUPF/COURAGE-xAPI/wiki/CourageLearninglockerWiki
 
 or open the wiki tab on gitHub interface.
 
